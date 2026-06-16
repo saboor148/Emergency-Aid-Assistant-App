@@ -1,0 +1,6 @@
+{
+  "name": "Emergency Aid Assistant",
+  "description": "Pakistan's Roman Urdu first aid helper. Offers voice and text assistance with rapid emergency protocols.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
